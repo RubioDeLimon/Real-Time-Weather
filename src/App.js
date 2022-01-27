@@ -1,3 +1,4 @@
+import react from "react";
 import { Component } from "react";
 
 import WeatherInfo from "./Weatherinfo";
